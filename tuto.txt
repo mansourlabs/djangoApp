@@ -1,0 +1,7 @@
+template downloadign 
+virtualenv 
+    - create          $virtualenv  venv 
+    - activate    $source  bin/activate (mac & linux ) 
+                  $/Scripts/bin/activate (windows)
+
+    
